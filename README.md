@@ -62,12 +62,12 @@ Prerequisites: Ensure you have Node.js installed on your computer.
 
 Install Dependencies: Open the project folder in your terminal and run the following command. This will download all necessary libraries (creating the node_modules folder):
 
-'''npm install
+```npm install```
 
 
 Start the Application: Run the development server:
 
-'''npm start
+```npm start```
 
 
 Open http://localhost:3000 to view it in the browser.
