@@ -54,6 +54,24 @@ Tailwind CSS: Styling and animations for the cryptographic pipeline.
 
 Lucide React: Iconography for visual indicators (locks, keys, shields).
 
+💻 Installation & Setup
+
+If you have downloaded this project, follow these steps to run it locally:
+
+Prerequisites: Ensure you have Node.js installed on your computer.
+
+Install Dependencies: Open the project folder in your terminal and run the following command. This will download all necessary libraries (creating the node_modules folder):
+
+npm install
+
+
+Start the Application: Run the development server:
+
+npm start
+
+
+Open http://localhost:3000 to view it in the browser.
+
 📖 How to Use
 
 Authentication: Click "Authenticate Device" on the home screen. You can run a normal login or use the test buttons to simulate failures.
