@@ -52,7 +52,7 @@ A dedicated "Walkthrough" view provides interactive learning modules:
 If you have downloaded this project, follow these steps to run it locally:
 
 1.  **Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) installed.
-2.  **Install Dependencies**:
+2.  **Navigate to folder and Install Dependencies**:
     ```bash
     npm install
     ```
